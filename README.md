@@ -63,6 +63,8 @@ cd SolarBatterySimulator
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
 ```
+You can also download the full folder as .zip and start using the code immediately, as long as you have numpy, scipy and matplotlib installed.
+
 
 `requirements.txt`:
 

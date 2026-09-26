@@ -6,6 +6,7 @@ import time
 import os
 
 if __name__ == '__main__':
+    # Change filepath
     figure_map = r"/mnt/c/Users/wille/Documents/Humasol/Partner_Relations/2425/A2D - OVO - Benin/"
     # Load irradiance data
     irradiance = sys.solar_irradiance()
